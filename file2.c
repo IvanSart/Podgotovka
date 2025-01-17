@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Created on the server");
+  printf("Created on the server-commit");
   return main;
 }
