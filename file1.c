@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Created from the commit");
+  printf("Created from the test3");
   return main;
 }
