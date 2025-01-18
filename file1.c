@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Created from the test34");
+  printf("Created from the 34test");
   return main;
 }
